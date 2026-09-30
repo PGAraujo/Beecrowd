@@ -1,0 +1,17 @@
+- Vetores em C
+    - Declaração
+    - Inicialização
+    - Acesso aos elementos
+    - Percorrendo vetores com laços
+- Vetores e funções
+
+Notação: 
+
+Um vetor em C começa em 0 por exemplo , valor[10], suas posições serão de 0 a 9;
+
+Podemos utilizar os vetores com espaço fixo ou indeferido, veja abaixo:
+
+double notas[3] = [10.0, 9.0 , 8.0];
+double notas[] = [7.0, 8.4, 3.5, 1.6 , 9.5, ...];
+
+

@@ -33,7 +33,6 @@ int main() {
         }
     }
     
-
     printf("%d\n",soma_impares);
     return 0;
 }
